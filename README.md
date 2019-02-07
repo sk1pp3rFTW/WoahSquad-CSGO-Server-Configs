@@ -13,3 +13,6 @@ woahsquad5v5.cfg
 >> after pistol round 60k every round
 
 BASED ON ESL 5v5 CONFIG
+
+
+I will probably be adding more configs over time. 
