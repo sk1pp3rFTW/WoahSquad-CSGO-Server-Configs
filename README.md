@@ -1,4 +1,4 @@
-# WoahSquad-CSGO-Server-Configs
+# WoahSquad CSGO Server Configs
 All of the CSGO server configs for WoahSquad
 
 # Uploaded Configs
